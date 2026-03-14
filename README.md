@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Stefanie 👋
 
-<!--
-**stefanieversace/stefanieversace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in cybersecurity, AI systems, and data analysis.
 
-Here are some ideas to get you started:
+I have a Bachelor of Security Studies and enjoy working on projects involving:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- security monitoring
+- threat analysis
+- data investigation
+- AI workflows
+- prompt engineering
+
+## Current Projects
+• Security monitoring labs using Microsoft Sentinel  
+• Log analysis using KQL queries  
+• AI prompt experimentation  
+
+## Interests
+Cybersecurity  
+Machine learning systems  
+Threat intelligence  
+Data-driven research
