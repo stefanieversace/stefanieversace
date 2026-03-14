@@ -1,22 +1,30 @@
 # Hi, I'm Stefanie 👋
 
-I'm interested in cybersecurity, AI systems, and data analysis.
+Security Studies graduate interested in cybersecurity, AI systems, and data analysis.
 
-I have a Bachelor of Security Studies and enjoy working on projects involving:
+## Current Focus
+- Threat intelligence research
+- Prompt engineering experiments
+- Security log analysis
+- AI-assisted investigation workflows
 
-- security monitoring
-- threat analysis
-- data investigation
-- AI workflows
-- prompt engineering
+## Projects
 
-## Current Projects
-• Security monitoring labs using Microsoft Sentinel  
-• Log analysis using KQL queries  
-• AI prompt experimentation  
+🔹 Threat Intelligence Tracker  
+Documenting cybersecurity threats using OSINT research.
+
+🔹 AI Contract Data Extraction  
+Using prompts to convert unstructured text into structured insights.
+
+🔹 Security Log Analysis  
+Investigating suspicious activity using log data and KQL queries.
+
+🔹 AI Recommendation Prompt Lab  
+Exploring how prompts can generate personalized recommendations.
 
 ## Interests
+
 Cybersecurity  
-Machine learning systems  
+Artificial intelligence  
 Threat intelligence  
-Data-driven research
+Data analysis
