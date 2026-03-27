@@ -18,20 +18,23 @@ I’m currently building hands-on experience across detection engineering, OSINT
 
 ## 📂 Projects
 
-### 🔹 Gootloader Threat Intelligence & Detection Analysis  
-OSINT-driven threat profile including infection chain analysis, MITRE ATT&CK mapping, and Microsoft Sentinel detections.
+### 🔹 Gootloader Threat Intelligence & Detection Analysis
+Developed an OSINT-driven threat profile analysing the Gootloader infection chain, mapped behaviours to MITRE ATT&CK, and created Microsoft Sentinel detection logic to identify related activity.
 
-### 🔹 Threat Intelligence Tracker  
-Ongoing research and documentation of emerging threats, techniques, and indicators.
+### 🔹 Security Operations Triage Dashboard 
+Built a Microsoft Sentinel project using KQL to simulate real-world SOC workflows, including detection of brute force activity, suspicious logins, and lateral movement. Designed triage processes to prioritise and investigate security alerts.
 
-### 🔹 Security Log Analysis Lab  
-Hands-on investigation of suspicious activity using logs, process events, and KQL queries.
+### 🔹 Threat Intelligence Tracker
+Researched and documented emerging cyber threats, techniques, and indicators, focusing on identifying patterns and translating intelligence into actionable insights.
 
-### 🔹 AI Contract Data Extraction  
-Using prompt engineering to transform unstructured legal text into structured insights.
+### 🔹 Security Log Analysis Lab
+Conducted hands-on analysis of security logs to investigate suspicious activity, using KQL queries and event data to identify anomalies and support incident investigation.
 
-### 🔹 AI Recommendation Prompt Lab  
-Exploring how prompts can generate personalised recommendations and outputs.
+### 🔹 AI Contract Data Extraction
+Used prompt engineering to transform unstructured legal text into structured data, demonstrating the application of AI for data analysis and automation.
+
+### 🔹 AI Recommendation Prompt Lab
+Designed and tested prompt workflows to generate personalised recommendations, exploring how AI can be used to structure and interpret user data.
 
 ---
 
