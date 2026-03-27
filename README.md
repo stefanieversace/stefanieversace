@@ -1,30 +1,49 @@
-# Hi, I'm Stefanie 👋
+Hi, I'm Stefanie 👋  
+Security Studies graduate with a strong interest in cybersecurity, threat intelligence, and AI-driven analysis.
 
-Security Studies graduate interested in cybersecurity, AI systems, and data analysis.
+I am currently building hands-on experience across detection engineering, OSINT investigations, and security data analysis, with a focus on translating intelligence into actionable insights.
+
+---
 
 ## Current Focus
-- Threat intelligence research
-- Prompt engineering experiments
-- Security log analysis
-- AI-assisted investigation workflows
+- Threat intelligence research and OSINT investigations  
+- Detection engineering using Microsoft Sentinel (KQL)  
+- Security log analysis and behavioural detection  
+- AI-assisted investigation and workflow optimisation  
+
+---
 
 ## Projects
 
-🔹 Threat Intelligence Tracker  
-Documenting cybersecurity threats using OSINT research.
+🔹 **Gootloader Threat Intelligence & Detection Analysis**  
+OSINT-driven threat actor profile including infection chain analysis, MITRE ATT&CK mapping, and Microsoft Sentinel detection queries.
 
-🔹 AI Contract Data Extraction  
-Using prompts to convert unstructured text into structured insights.
+🔹 **Threat Intelligence Tracker**  
+Ongoing documentation of emerging threats, techniques, and indicators using open-source intelligence.
 
-🔹 Security Log Analysis  
-Investigating suspicious activity using log data and KQL queries.
+🔹 **AI Contract Data Extraction**  
+Using prompt engineering to convert unstructured legal text into structured, actionable insights.
 
-🔹 AI Recommendation Prompt Lab  
-Exploring how prompts can generate personalized recommendations.
+🔹 **Security Log Analysis Lab**  
+Investigating suspicious activity using log data, process events, and KQL queries.
+
+🔹 **AI Recommendation Prompt Lab**  
+Exploring how structured prompts can generate personalised recommendations and insights.
+
+---
 
 ## Interests
+- Cybersecurity and threat detection  
+- Threat intelligence and OSINT  
+- Artificial intelligence in security workflows  
+- Data analysis and pattern identification  
 
-Cybersecurity  
-Artificial intelligence  
-Threat intelligence  
-Data analysis
+---
+
+## Currently Seeking
+Entry-level opportunities in:
+- Security Operations (SOC)  
+- Threat Intelligence  
+- Cybersecurity Analysis  
+
+Open to roles in New York.
