@@ -49,4 +49,4 @@ Opportunities in:
 - Threat Intelligence  
 - Cybersecurity Analysis  
 
-📍 Open to roles in New York
+📍 Open to roles in Sydney, Australia
